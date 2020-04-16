@@ -1,3 +1,11 @@
 1、Hide All Tool Windows (隐藏所有工具窗口)  快捷键：Ctrl+Shift+F12
-2、Extrat Method（抽取代码为方法） 快捷键：Ctrl+Alt+M
+2、Extract Method（抽取代码为方法） 快捷键：Ctrl+Alt+M
+3、Basic（代码提示设置）  快捷键：Ctrl+space 
+4、add keyboard Shortcut(自动补全设置)
+5、
 
+
+未验证：
+快速实现接口快捷方式：ALT +INSERT
+导入包：ALT+ENTER
+对齐代码：CTRL+ALT+L
